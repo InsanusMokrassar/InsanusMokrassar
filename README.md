@@ -2,6 +2,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![madhunimmo](https://github-readme-stats.vercel.app/api?username=InsanusMokrassar&show_icons=true&&count_private=true&locale=en&theme=onedark&layout=compact)](https://github.com/ryo-ma/github-profile-trophy)
+[![madhunimmo](https://github-readme-stats.vercel.app/api/top-langs?username=InsanusMokrassar&show_icons=true&&count_private=true&locale=en&theme=onedark&layout=compact)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **InsanusMokrassar/InsanusMokrassar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
