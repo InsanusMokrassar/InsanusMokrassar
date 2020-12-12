@@ -1,6 +1,6 @@
 **Hi there 👋**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=InsanusMokrassar)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![madhunimmo](https://github-readme-stats.vercel.app/api?username=InsanusMokrassar&show_icons=true&&count_private=true&locale=en&theme=onedark&layout=compact)](https://github.com/ryo-ma/github-profile-trophy)
 [![madhunimmo](https://github-readme-stats.vercel.app/api/top-langs?username=InsanusMokrassar&show_icons=true&&count_private=true&locale=en&theme=onedark&layout=compact)](https://github.com/ryo-ma/github-profile-trophy)
