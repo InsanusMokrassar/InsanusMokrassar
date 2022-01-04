@@ -12,5 +12,7 @@
   
 </details>
 
-- 🤔 I’m looking for help with [tgbotapi](https://github.com/InsanusMokrassar/TelegramBotAPI)
-- 📫 How to reach me: [telegram](https://t.me/InsanusMokrassar)
+I am full stack developer on kotlin (especially on Kotlin Multiplatform). Currently I am working on several KMPP systems and android-only projects.
+
+* 🤔 I would be glad to get any help with [tgbotapi](https://github.com/InsanusMokrassar/TelegramBotAPI) - we realy miss documentation there :)
+* 📫 How to reach me: [Telegram](https://t.me/InsanusMokrassar)
