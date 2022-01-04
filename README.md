@@ -34,6 +34,8 @@
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=Lua&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 
+## A little bit about me
+
 I am full stack developer on kotlin (especially on Kotlin Multiplatform). Currently I am working on several KMPP systems and android-only projects.
 
 * 🤔 I would be glad to get any help with [tgbotapi](https://github.com/InsanusMokrassar/TelegramBotAPI) - we realy miss documentation there :)
