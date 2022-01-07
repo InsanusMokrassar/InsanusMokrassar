@@ -1,5 +1,3 @@
-![Profile views](https://gpvc.arturio.dev/InsanusMokrassar)<br><br>
-
 **Hi there 👋**
 
 [![madhunimmo](https://github-readme-stats.vercel.app/api/top-langs?username=InsanusMokrassar&show_icons=true&&count_private=true&locale=en&theme=onedark&layout=compact)](https://github.com/ryo-ma/github-profile-trophy)
