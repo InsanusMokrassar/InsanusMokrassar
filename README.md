@@ -38,5 +38,3 @@ I am full stack developer on kotlin (especially on Kotlin Multiplatform). Curren
 
 * 🤔 I would be glad to get any help with [tgbotapi](https://github.com/InsanusMokrassar/TelegramBotAPI) - we realy miss documentation there :)
 * 📫 How to reach me: [Telegram](https://t.me/InsanusMokrassar)
-
-[![Donate with Bitcoin](https://en.cryptobadges.io/badge/big/bc1qcpg4mj9k82ppjcjtf2fs7qq7dr2z3jhx0mx902?showBalance=true)](https://en.cryptobadges.io/donate/bc1qcpg4mj9k82ppjcjtf2fs7qq7dr2z3jhx0mx902)
