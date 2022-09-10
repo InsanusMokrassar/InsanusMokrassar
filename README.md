@@ -10,6 +10,16 @@
   
 </details>
 
+## Libraries versions
+
+| Common and independent | TelegramBotAPI | Plagubot |
+| ---: | :---: | :--- |
+| [![Maven Central](https://img.shields.io/maven-central/v/dev.inmo/micro_utils.common?label=microutils&style=flat-square)](https://github.com/InsanusMokrassar/MicroUtils) | [![Maven Central](https://img.shields.io/maven-central/v/dev.inmo/tgbotapi?label=tgbotapi&style=flat-square)](https://github.com/InsanusMokrassar/TelegramBotAPI) | [![Maven Central](https://img.shields.io/maven-central/v/dev.inmo/plagubot.plugin?label=plagubot&style=flat-square)](https://github.com/InsanusMokrassar/PlaguBot) |
+| [![Maven Central](https://img.shields.io/maven-central/v/dev.inmo/kslog?label=kslog&style=flat-square)](https://github.com/InsanusMokrassar/KSLog) | [![Maven Central](https://img.shields.io/maven-central/v/dev.inmo/tgbotapi.libraries.cache.admins.common?label=tgbotapi.libraries&style=flat-square)](https://github.com/InsanusMokrassar/TelegramBotAPILibraries) | [![Maven Central](https://img.shields.io/maven-central/v/dev.inmo/plagubot.plugins.commands?label=plagubot.commands&style=flat-square)](https://github.com/InsanusMokrassar/PlaguBotCommandsPlugin) |
+| [![Maven Central](https://img.shields.io/maven-central/v/dev.inmo/krontab?label=krontab&style=flat-square)](https://github.com/InsanusMokrassar/Krontab) | | |
+| [![Maven Central](https://img.shields.io/maven-central/v/dev.inmo/kjsuikit?label=kjsuikit&style=flat-square)](https://github.com/InsanusMokrassar/JSUIKitKBindings) | | |
+| [![Maven Central](https://img.shields.io/maven-central/v/dev.inmo/saucenaoapi?label=saucenaoapi&style=flat-square)](https://github.com/InsanusMokrassar/SauceNaoAPI) | | |
+
 ## Work with
 
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white)
