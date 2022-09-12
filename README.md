@@ -19,6 +19,7 @@
 | [![Maven Central](https://img.shields.io/maven-central/v/dev.inmo/krontab?label=krontab&style=flat-square)](https://github.com/InsanusMokrassar/Krontab) | | |
 | [![Maven Central](https://img.shields.io/maven-central/v/dev.inmo/kjsuikit?label=kjsuikit&style=flat-square)](https://github.com/InsanusMokrassar/JSUIKitKBindings) | | |
 | [![Maven Central](https://img.shields.io/maven-central/v/dev.inmo/saucenaoapi?label=saucenaoapi&style=flat-square)](https://github.com/InsanusMokrassar/SauceNaoAPI) | | |
+| [![Maven Central](https://img.shields.io/maven-central/v/dev.inmo/navigation.core?label=navigation&style=flat-square)](https://github.com/InsanusMokrassar/navigation) | | |
 
 ## Work with
 
